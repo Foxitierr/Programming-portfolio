@@ -18,9 +18,21 @@
 <h3>Space Game<h3/>
  ()[Spaaaaacccceee_best_ 2.zip](https://github.com/user-attachments/files/17907684/Spaaaaacccceee_best_.2.zip)
 
-## <h3 align="center"><em> Term 1 </em></h3>
+## <h3 align="center"><em> Personal Projects </em></h3>
+Links to personal projects:
+https://github.com/EliGarfield/Mad-lib
+This is a simple mad lib program 
+Technologies used: CodeHS
 
-### <h3 align="center"><em> Term 2 </em></h3>
+### <h3 align="center"><em> Group Projects </em></h3>
+Links to group projects:
+https://github.com/EliGarfield/Code-Quest
+Role: Main programmer, group leader
+Technolgies used: CodeHS, pixil art
+#### <h3 align="center"><em> Certificates </em></h3>
+[Thomas Garfield_Computer Programming I_12162024.pdf](https://github.com/user-attachments/files/20416605/Thomas.Garfield_Computer.Programming.I_12162024.pdf)
+[Thomas Garfield_Food and Nutrition_05152025.pdf](https://github.com/user-attachments/files/20416607/Thomas.Garfield_Food.and.Nutrition_05152025.pdf)
+
 
 ##### <h3 align="center">[My Favorite Website](https://thisisnotawebsitedotcom.com/)</h3>
 <h3>Etch-A-Sketch</h3>
